@@ -1,3 +1,4 @@
+// Primeiro script - "Hello, World!"
 #include <iostream>
 int main()
 {
