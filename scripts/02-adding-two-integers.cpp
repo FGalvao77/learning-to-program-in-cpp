@@ -18,3 +18,14 @@ int main()
 
     return 0;
 }
+
+/* 
+Orientação de execução do script:
+
+    1) No terminal, digite o seguinte comando:
+        $ g++ 02-adding-two-integers.cpp -o 02-adding-two-integers
+
+    2) E em seguida:
+        $ ./02-adding-two-integers
+    
+*/
