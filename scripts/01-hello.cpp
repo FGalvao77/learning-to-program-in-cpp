@@ -1,4 +1,4 @@
-// Primeiro script - "Hello, World!"
+// Primeiro script - "Hello, World!" e "Welcome to C++"
 #include <iostream>
 int main()
 {

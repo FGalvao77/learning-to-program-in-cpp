@@ -1,4 +1,4 @@
-// Segundo script - soma de dois números inteiros
+// Segundo script - realiza a soma de dois números inteiros
 #include <iostream>
 int main()
 {
