@@ -9,24 +9,26 @@ int main() {
     return 0;
 }
 
-/* [PT-BR]
-Orientação de execução do script:
+/* 
+[PT-BR] Orientação de execução do script:
 
     1) No terminal, digite o seguinte comando:
-        $ g++ 01-hello.cpp -o 01-hello
+        $ g++ 01-hello-welcome.cpp -o 01-hello-welcome
 
     2) E em seguida:
-        $ ./01-hello
+        $ ./01-hello-welcome
     
 */
 
 /*
 [EN] Script execution instructions:
 
-1) In the terminal, enter the following command:
-$ g++ 01-hello.cpp -o 01-hello
+    1) In the terminal, enter the following command:
+        $ g++ 01-hello-welcome.cpp -o 01-hello-welcome
 
-2) Then:
-$ ./01-hello
+    2) Then:
+        $ ./01-hello-welcome
 
 */
+
+

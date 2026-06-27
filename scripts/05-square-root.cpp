@@ -23,20 +23,22 @@ int main() {
 [PT-BR] Orientação de execução do script:
 
     1) No terminal, digite o seguinte comando:
-        $ g++ 03-square-root.cpp -o 03-square-root
+        $ g++ 05-square-root.cpp -o 05-square-root
 
     2) E em seguida:
-        $ ./03-square-root
+        $ ./05-square-root
     
 */
 
 /*
 [EN] Script execution instructions:
 
-1) In the terminal, type the following command:
-$ g++ 03-square-root.cpp -o 03-square-root
+    1) In the terminal, type the following command:
+        $ g++ 05-square-root.cpp -o 05-square-root
 
-2) And then:
-$ ./03-square-root
+    2) And then:
+        $ ./05-square-root
 
 */
+
+
