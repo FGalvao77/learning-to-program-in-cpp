@@ -1,3 +1,5 @@
+// [PT-BR] Script para calcular a raiz quadrada de um número inteiro
+// [EN] Script to calculate the square root of an integer
 #include <iostream>
 #include <cmath>
 
@@ -18,7 +20,7 @@ int main() {
 }
 
 /* 
-Orientação de execução do script:
+[PT-BR] Orientação de execução do script:
 
     1) No terminal, digite o seguinte comando:
         $ g++ 03-square-root.cpp -o 03-square-root
@@ -26,4 +28,15 @@ Orientação de execução do script:
     2) E em seguida:
         $ ./03-square-root
     
+*/
+
+/*
+[EN] Script execution instructions:
+
+1) In the terminal, type the following command:
+$ g++ 03-square-root.cpp -o 03-square-root
+
+2) And then:
+$ ./03-square-root
+
 */

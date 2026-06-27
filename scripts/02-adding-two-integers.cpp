@@ -1,4 +1,5 @@
-// Segundo script - realiza a soma de dois números inteiros
+// [PT-BR] Script para realizar a soma de dois números inteiros
+// [ENG] Script to sum two integers
 #include <iostream>
 
 int main() {
@@ -20,7 +21,7 @@ int main() {
 }
 
 /* 
-Orientação de execução do script:
+[PT-BR] Orientação de execução do script:
 
     1) No terminal, digite o seguinte comando:
         $ g++ 02-adding-two-integers.cpp -o 02-adding-two-integers
@@ -28,4 +29,15 @@ Orientação de execução do script:
     2) E em seguida:
         $ ./02-adding-two-integers
     
+*/
+
+/*
+[EN] Script execution instructions:
+
+1) In the terminal, type the following command:
+$ g++ 02-adding-two-integers.cpp -o 02-adding-two-integers
+
+2) And then:
+$ ./02-adding-two-integers
+
 */
